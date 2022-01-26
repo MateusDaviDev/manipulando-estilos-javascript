@@ -1,0 +1,16 @@
+body{
+  display: flex;
+  
+}
+
+section{
+  
+  margin: auto;
+}
+
+#quadrado{
+  border:solid 1px #000;
+  width:100px; 
+  height:100px;
+  margin: 0 auto;
+}
